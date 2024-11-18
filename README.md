@@ -8,5 +8,4 @@ In this lab you will explore some of the vulnerabilities of LLM systems, and get
 - [ ] Show your new attack to the TA and explain why you think it broke your defense.
 - [ ] Follow up question: What are other ways to further improve the security of the system?
 
-
-Complete the lab in `lab11.ipynb`.
+Clone this [repository](https://github.com/malusamayo/cmu-mlip-lab11) and follow instructions in the notebook `lab11.ipynb`.

@@ -6,7 +6,7 @@ In this lab you will explore some of the vulnerabilities of LLM systems, and get
 ## Deliverables
 - [ ] Come up with a defense prompt that protect against all the attacks and show your experiments to a TA during recitation.
 - [ ] Show your new attack to the TA and explain why you think it broke your defense.
-- [ ] Follow up question: What are other ways to further improve the security of the system?
+- [ ] Show your safeguard to the TA and explain how it works. Think about other ways to further improve the security of the system.
 
 
 Complete the lab in `lab11.ipynb`.

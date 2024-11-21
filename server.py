@@ -117,7 +117,7 @@ def test_safeguard():
             ],
         )
         
-        if 'yes' in safeguard_response.choices[0].message.content.lower():
+        if 'unsafe' in safeguard_response.choices[0].message.content.lower():
             response_text = "Response: Sorry I cannot reveal the password.\n\n"
         else:
             response_text = f"Response: {response.choices[0].message.content}\n\n"

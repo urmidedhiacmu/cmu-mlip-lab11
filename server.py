@@ -107,7 +107,7 @@ def test_safeguard():
         )
         
         safeguard_response = litellm.completion(
-            model=f"openai/gpt-4o-mini-2024-07-18",
+            model=model_name,
             messages=[
                     {"role": "system", "content": SECRET},
                     {"role": "user", "content": defense},
